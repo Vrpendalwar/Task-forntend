@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.overView h2 {
+    color: #fff;
+    text-align: center;
+    background: #5c7831;
+    width: 428px;
+    border-radius: 25px;
+    font-size: 23px;
+    line-height: 35px;
+    margin: 0px auto;
+    font-family: 'Gotham-Book';
+    letter-spacing: 1px;
+    padding: 2px 0 7px 0;
+    position: relative;
+    z-index: 1;
+    text-transform: uppercase;
+
+}
+
+.overView h3 p {
+    font-size: 1.2rem;
+    margin-bottom: .5rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    line-height: 1.2px;
+}
+
+.overView h3 {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.75rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #5c7831;
+    font-weight: bolder;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #5c7831;
+}
+
+.para {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Mukta', sans-serif;
+    color: #5c7831;
+    margin-right: 100px;
+    margin-left: 100px;
+    overflow: hidden;
+    line-height: 35px;
+    font-weight: 500;
+}
+
+.Decor h2 {
+    color: #fff;
+    text-align: center;
+    background: #5c7831;
+    width: 428px;
+    border-radius: 25px;
+    font-size: 23px;
+    line-height: 35px;
+    margin: 0px auto;
+    font-family: 'Gotham-Book';
+    letter-spacing: 1px;
+    padding: 2px 0 7px 0;
+    position: relative;
+    z-index: 1;
+    text-transform: uppercase;
+
+}
+
+.bannerBG-2 img {
+    padding-top: 15px;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.underline {
+    width: 50%;
+    margin: 0 auto;
+    background-color: green;
+    height: 2.0px;
+    padding-bottom: 1px;
+    margin-bottom: 10px
+}

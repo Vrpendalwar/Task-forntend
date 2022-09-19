@@ -1,0 +1,308 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.amenities h2 {
+    color: #fff;
+    text-align: center;
+    background: #5c7831;
+    width: 428px;
+    border-radius: 25px;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 35px;
+    /* margin: 0px auto; */
+    font-family: 'Gotham-Book';
+    letter-spacing: 1px;
+    padding: 2px 0 7px 0;
+    position: relative;
+    z-index: 1;
+    text-transform: uppercase;
+    /* line-height: 2px; */
+    margin-left: 400px;
+
+}
+
+.gal {
+    margin-bottom: 20px;
+}
+
+/* 
+.amenities-1 h2 {
+    font: size 100px;
+} */
+
+.amenitiesText p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000;
+    background: #fff;
+    font-weight: 100rem;
+    text-align: center;
+    font-size: 23px;
+    font-weight: 250;
+    margin-bottom: 20px;
+}
+
+.amenities h3 {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #5c7831;
+}
+
+.overView h3 {
+    display: flex;
+    justify-content: center;
+    color: #5c7831;
+
+}
+
+.heading2 p {
+    font-family: 'Gotham-Book';
+    text-transform: uppercase;
+    text-align: center !important;
+    font-size: 22px !important;
+    margin-bottom: 20px;
+}
+
+.heading2 h2 {
+    color: #fff;
+    text-align: center;
+    background: #5c7831;
+    width: 428px;
+    border-radius: 25px;
+    font-size: 23px;
+    line-height: 35px;
+    margin: 0px auto;
+    font-family: 'Gotham-Book';
+    letter-spacing: 1px;
+    padding: 2px 0 7px 0;
+    position: relative;
+    z-index: 1;
+    text-transform: uppercase;
+}
+
+.gallery h2 {
+    margin-left: 425px;
+    margin-top: 50px;
+    color: #fff;
+    text-align: center;
+    background: #5c7831;
+    width: 428px;
+    border-radius: 25px;
+    font-size: 23px;
+    line-height: 35px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Gotham-Book';
+    letter-spacing: 1px;
+    position: relative;
+    z-index: 1;
+    text-transform: uppercase;
+    margin-left: 0px auto;
+    border: box;
+}
+
+.amenities-1 h2 {
+    font-size: 25px;
+    color: #5c7831;
+    background-color: #fff;
+    margin-left: 400px;
+
+}
+
+.boxex {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    overflow: hidden;
+    margin-right: 30px;
+    margin-left: 100px;
+    flex-wrap: wrap;
+    padding: 0 4px;
+
+}
+
+.underline1 {
+    width: 50%;
+    margin: 0 auto;
+    background-color: green;
+    height: 2.5px;
+    padding-bottom: 1px;
+    margin-bottom: 10px
+}
+
+.gallery img {
+    width: 25%;
+}
+
+.common-Amunities h2 {
+    margin-left: 425px;
+    margin-top: 50px;
+    color: #5c7831;
+    text-align: center;
+    background: #fff;
+    width: 428px;
+    border-radius: 25px;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 35px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Gotham-Book';
+    letter-spacing: 1px;
+    position: relative;
+    z-index: 1;
+    text-transform: uppercase;
+    margin-left: 0px auto;
+    border: box;
+}
+
+.boxex-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    overflow: hidden;
+    margin-right: 30px;
+    margin-left: 100px;
+    flex-wrap: wrap;
+    padding: 30px 0 10px 0;
+}
+
+.green-Amunities h2 {
+    margin-left: 425px;
+    margin-top: 50px;
+    color: #5c7831;
+    text-align: center;
+    background: #fff;
+    width: 428px;
+    border-radius: 25px;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 35px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Gotham-Book';
+    letter-spacing: 1px;
+    position: relative;
+    z-index: 1;
+    text-transform: uppercase;
+    margin-left: 0px auto;
+    border: box;
+}
+
+.boxex-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    overflow: hidden;
+    margin-right: 300px;
+    margin-left: 300px;
+    flex-wrap: wrap;
+    padding: 30px 0 10px 0;
+}
+
+.life-Amunities h2 {
+    margin-left: 425px;
+    margin-top: 50px;
+    color: #5c7831;
+    text-align: center;
+    background: #fff;
+    width: 428px;
+    border-radius: 25px;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 35px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Gotham-Book';
+    letter-spacing: 1px;
+    position: relative;
+    z-index: 1;
+    text-transform: uppercase;
+    margin-left: 0px auto;
+    border: box;
+}
+
+.boxex-4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    height: auto;
+    overflow: hidden;
+    margin-right: 30px;
+    margin-left: 100px;
+    flex-wrap: wrap;
+    padding: 30px 0 10px 0;
+    box-shadow: 50px;
+}
+
+.boxex :hover {
+    transition: all 0.5s ease-in-out;
+    transform: translateX(50px);
+
+}
+
+.boxex-2 :hover {
+    transition: all 0.5s ease-in-out;
+    transform: translateX(50px);
+
+}
+
+.boxex-3:hover {
+    transition: all 0.5s ease-in-out;
+    transform: translateX(50px);
+
+}
+
+.boxex-4 :hover {
+    transition: all 0.5s ease-in-out;
+    transform: translateX(50px);
+}
+
+@media (max-width:1030px) {
+    .amenities h2 {
+        text-align: left;
+    }
+
+    .amenities h2 {
+        margin-left: 300px;
+    }
+
+    .common-Amunities h2 {
+        margin-left: 250px;
+    }
+
+    .green-Amunities h2 {
+        margin-left: 250px;
+    }
+
+    .life-Amunities h2 {
+        margin-left: 250px;
+    }
+
+    .gallery h2 {
+        margin-left: 250px;
+    }
+}
+
+
+@media (max-width:750px) {
+.amenities h2 {
+    margin-left: 160px;
+    text-align: center;
+}
+
+.green-Amunities h2 {
+    margin-left: 180px;
+}
+
+
+.common-Amunities h2 {
+    margin-left: 175px;
+}
+}
